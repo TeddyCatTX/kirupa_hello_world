@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_hello_world/static/css/main.3c46718e.css",
+    "main.js": "/kirupa_hello_world/static/js/main.746cd4fb.js",
+    "index.html": "/kirupa_hello_world/index.html",
+    "main.3c46718e.css.map": "/kirupa_hello_world/static/css/main.3c46718e.css.map",
+    "main.746cd4fb.js.map": "/kirupa_hello_world/static/js/main.746cd4fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c46718e.css",
+    "static/js/main.746cd4fb.js"
+  ]
+}
