@@ -12,6 +12,7 @@ class HelloWorld extends Component {
         <h1>Hello, world!</h1>
         <br />
         <button onClick={this.handleClick}>Creating our HelloWorld App</button>
+        <a href="https://www.google.com" target="_blank">Go to Google</a>
       </div>
     );
   }
