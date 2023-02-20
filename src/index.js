@@ -4,6 +4,9 @@ import HelloWorld from "./HelloWorld";
 import "./index.css";
  
 ReactDOM.render(
-    <HelloWorld/>,
+    <>
+    <a href="https://www.google.com" target="_blank">Go to Google</a>
+    <HelloWorld/>
+    </>,
     document.getElementById("root")
 );
